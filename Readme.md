@@ -69,4 +69,8 @@ Al ser una instalación guiada la haremos en el taller.
 
 👀 Repasa los [requisitos de instalación de Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress) por lo que pueda ser ;)
 
+## Recursos
+
+- [Ejercicios de @imaval con Cypress y Docker](https://gitlab.com/imanolvalero/lemoncode-devops/-/tree/main/modulo2-docker/deberes/sesion1)
+
 💪 ¡A por ello!
