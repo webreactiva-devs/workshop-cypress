@@ -38,7 +38,6 @@ Cypress ofrece muchas características avanzadas, como la capacidad de interactu
 
 ## 🛠¿Cómo funciona el taller?
 
-- La sesión es el jueves 16 de Marzo de 2023 a las 19:00 CET
 - El ponente (Dani) irá explicando conceptos y proponiendo ejercicios que estarán en este repositorio
 - Cada asistente podrá resolverlos en su propio ordenador.
 - Es OBLIGADO tener a punto los requisitos para empezar el taller (leer aquí abajo)
