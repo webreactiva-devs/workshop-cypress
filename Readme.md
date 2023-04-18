@@ -62,6 +62,8 @@ En `localhost:5000` se abrirá la webapp.
 
 No necesita persistencia en base de datos, ya que lo manejaremos a nivel de memoria.
 
+Puedes hacer login con los usuarios que verás en `src/data/users.js`
+
 ### 3. Instalación de Cypress
 
 Al ser una instalación guiada la haremos en el taller.
