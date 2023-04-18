@@ -67,4 +67,6 @@ Puedes hacer login con los usuarios que verás en `src/data/users.js`
 
 Al ser una instalación guiada la haremos en el taller.
 
+👀 Repasa los [requisitos de instalación de Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress) por lo que pueda ser ;)
+
 💪 ¡A por ello!
